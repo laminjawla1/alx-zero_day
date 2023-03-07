@@ -1,1 +1,1 @@
-Someething about to happen
+Something about to happen
